@@ -23,8 +23,3 @@ python main.py
 2. Write `WHERE qty_on_hand <= reorder_point`
 3. Compute total value with `SUM(qty_on_hand * unit_cost)`
 4. Answer: which parts need restocking right now?
-
-## Path
-
-See [TUTORING_CURRICULUM.md](../TUTORING_CURRICULUM.md). Next: supplier scorecard
-or Satisfactory BOM.
